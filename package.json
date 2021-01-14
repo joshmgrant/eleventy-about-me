@@ -11,7 +11,8 @@
   },
   "scripts": {
     "serve": "npx eleventy --serve",
-    "build": "npx eleventy"
+      "build": "npx eleventy",
+      "gh-build": "env NODE_ENV=production npx eleventy --pathprefix 'eleventy-gh-demo'"
   },
   "repository": {
     "type": "git",
