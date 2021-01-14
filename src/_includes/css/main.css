@@ -27,7 +27,7 @@ html, body, .container {
 }
 
 .box {
-	font-family: 'Share Tech Mono', monospace;
+        font-family: 'Georgia', monospace;
 	display: flex;
 	flex-direction: row;
 	margin: auto;
@@ -94,7 +94,7 @@ code {
 }
 
 footer {
-	font-family: 'Ubuntu', monospace;
+	font-family: 'Verdana', monospace;
 	font-size: 12px;
 	position: fixed;
 	background-image: linear-gradient( rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 1) 50%);

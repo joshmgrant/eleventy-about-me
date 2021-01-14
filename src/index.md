@@ -1,20 +1,17 @@
 # About Me
 
-Lorem ipsum dolor sit amet, ***consectetur adipiscing elit***, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I'm Josh Grant, and this is my site. I'm interested in a few different things.
 
-## Header 2
+## Writing on software and testing
 
-*Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
+[Simply the Test](joshgrant.online/blog)
 
-Ut enim ad minim veniam:
+## Corsica, Random Numbers as a Service
 
-### Header 3
+[Corsica homepage]()
 
-**Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur?**
+## Social Media
 
-#### Header 4
+[Twitter](https://twitter.com/joshin4colours)
 
-Quis nostrud exercitation:
 
-* Ullamco laboris nisi ut [aliquip](https://example.com)
-* Ex ea commodo [consequat](https://example.com).
