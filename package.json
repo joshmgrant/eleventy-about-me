@@ -10,7 +10,7 @@
     "@11ty/eleventy": "^0.8.0"
   },
   "scripts": {
-    "test": "npx eleventy --serve",
+    "serve": "npx eleventy --serve",
     "build": "npx eleventy"
   },
   "repository": {
