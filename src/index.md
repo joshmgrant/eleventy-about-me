@@ -1,17 +1,23 @@
 # About Me
 
-I'm Josh Grant, and this is my site. I'm interested in a few different things.
+I'm Josh Grant, and this is my site. I'm interested in a few different things. In technology, I'm mostly interested in software development and in mostly Python. 
 
-## Writing on software and testing
+## Writing
 
-[Simply the Test](joshgrant.online/blog)
+On software and testing - [Simply the Test](joshgrant.online/blog)
 
-## Corsica, Random Numbers as a Service
+On a more personal note - [Medium](https://joshin4colours.medium.com/)
 
-[Corsica homepage]()
+## Select Projects
+
+Random Numbers as a Service - [Corsica](https://github.com/joshmgrant/corsica)
+
+Watir, in Python - [Nerodia](https://github.com/watir/nerodia)
 
 ## Social Media
 
 [Twitter](https://twitter.com/joshin4colours)
+
+[Instagram](https://www.instagram.com/joshin4colours/?hl=en)
 
 
