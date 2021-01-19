@@ -4,7 +4,7 @@ I'm Josh Grant, and this is my site. I'm interested in a few different things. I
 
 ## Writing
 
-On software and testing - [Simply the Test](joshgrant.online/blog)
+On software and testing - [Simply the Test](https://simplythetest.tumblr.com)
 
 On a more personal note - [Medium](https://joshin4colours.medium.com/)
 
