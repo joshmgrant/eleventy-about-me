@@ -13,7 +13,7 @@
   "scripts": {
     "serve": "npx eleventy --serve",
     "build": "npx eleventy",
-      "deplpy": "gh-pages -d _site"
+    "deploy": "gh-pages -d _site"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/alwayslivid/eleventy-about-me/issues"
   },
-  "homepage": "/eleventy-about-me"
+  "homepage": "/eleventy-about-me",
   "devDependencies": {
     "gh-pages": "^3.1.0"
   }
