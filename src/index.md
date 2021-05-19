@@ -14,6 +14,8 @@ Random Numbers as a Service - [Corsica](https://corsica.joshgrant.online/)
 
 Watir, in Python - [Nerodia](https://github.com/watir/nerodia)
 
+A Joke Project - [Fast and Furious Spoilers](./spoilers/)
+
 ## Social Media
 
 [Twitter](https://twitter.com/joshin4colours)
