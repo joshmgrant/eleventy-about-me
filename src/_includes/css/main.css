@@ -92,12 +92,3 @@ code {
 	margin: 5px;
 	padding: 10px;
 }
-
-footer {
-	font-family: 'Verdana', monospace;
-	font-size: 12px;
-	position: fixed;
-	width: 100%;
-	bottom: 0;
-	left: 0;
-}

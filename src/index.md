@@ -22,4 +22,4 @@ A Joke Project - [Fast and Furious Spoilers](./spoilers/)
 
 [Instagram](https://www.instagram.com/joshin4colours/?hl=en)
 
-
+Page Theme by [AlwaysLivid](https://alwayslivid.com) | Powered by [Eleventy](https://www.11ty.io/)
