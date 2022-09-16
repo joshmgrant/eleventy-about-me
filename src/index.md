@@ -14,8 +14,7 @@ Random Numbers as a Service - [Aimless Online](https://aimless.online)
 
 Watir, in Python - [Nerodia](https://github.com/watir/nerodia)
 
-A Joke Project - [Fast and Furious Spoilers](./spoilers/)
-
+A Tour of Testing, in Python - [SauceCon '20](https://github.com/joshmgrant/saucecon_tourAllThePythonThings)
 ## Social Media
 
 [Twitter](https://twitter.com/joshin4colours)
