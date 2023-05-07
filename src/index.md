@@ -4,7 +4,7 @@ I'm Josh Grant, and this is my site. I'm interested in a few different things. I
 
 ## Select Projects
 
-CI Fuzz, an Excellent Cross-Language Security Test Tool - [CI Fuzz](https://github.com/CodeIntelligenceTesting/cifuzz)
+Intelligence Cross-Language Security Testing - [CI Fuzz](https://github.com/CodeIntelligenceTesting/cifuzz)
 
 Random Numbers as a Service - [Aimless Online](https://aimless.online)
 
