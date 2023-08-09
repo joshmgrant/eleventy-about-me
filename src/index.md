@@ -4,8 +4,6 @@ I'm Josh Grant, and this is my site. I'm interested in a few different things. I
 
 ## Select Projects
 
-Intelligent Cross-Language Security Testing - [CI Fuzz](https://github.com/CodeIntelligenceTesting/cifuzz)
-
 Python Test Automation: The Scenic Route [get it here](https://leanpub.com/pythontestautomationthelongway)
 
 A Tour of Testing, in Python - [SauceCon '20](https://github.com/joshmgrant/saucecon_tourAllThePythonThings)
