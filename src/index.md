@@ -8,6 +8,8 @@ Python Test Automation: The Scenic Route [get it here](https://leanpub.com/pytho
 
 A Tour of Testing, in Python - [SauceCon '20](https://github.com/joshmgrant/saucecon_tourAllThePythonThings)
 
+[Art, by me](https://mastodon.art/@joshin4colours/media)
+
 ## Writing
 
 On software and testing - [Simply the Test](https://simplythetest.tumblr.com)
