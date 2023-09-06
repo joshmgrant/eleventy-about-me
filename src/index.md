@@ -8,6 +8,8 @@ Python Test Automation: The Scenic Route [get it here](https://leanpub.com/pytho
 
 A Tour of Testing, in Python - [SauceCon '20](https://github.com/joshmgrant/saucecon_tourAllThePythonThings)
 
+[Add some pumpkin spice to your Python tests](https://github.com/joshmgrant/pytest-pumpkin-spice)
+
 [Art, by me](https://mastodon.art/@joshin4colours/media)
 
 ## Writing
@@ -18,11 +20,11 @@ On a more personal note - [Medium](https://joshin4colours.medium.com/)
 
 ## Interesting Things as of late
 
-[An Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/hat/)
-
-Agnes Martin - [Biography](https://www.aci-iac.ca/art-books/agnes-martin/biography/)
-
 ["Orange Grove"](https://www.arthistoryproject.com/artists/agnes-martin/orange-grove/), Agnes Martin, 1965
+
+[Guido Molinari](https://fondationguidomolinari.org/en/collections/)
+
+[An Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/hat/)
 
 ## Social Media
 
