@@ -18,13 +18,15 @@ On software and testing - [Simply the Test](https://simplythetest.tumblr.com)
 
 On a more personal note - [Medium](https://joshin4colours.medium.com/)
 
+My Math Newsletter - [Read it here](https://joshs-newsletter-a4b32f.beehiiv.com/p/hello)
+
 ## Interesting Things as of late
 
 ["Orange Grove"](https://www.arthistoryproject.com/artists/agnes-martin/orange-grove/), Agnes Martin, 1965
 
 [Guido Molinari](https://fondationguidomolinari.org/en/collections/)
 
-[An Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/hat/)
+[_Homage to the Square_ by Josef Albers](https://www.khanacademy.org/humanities/art-1010/post-war-american-art/postwar-abstract-art/a/albers-homage-to-the-square)
 
 ## Social Media
 
