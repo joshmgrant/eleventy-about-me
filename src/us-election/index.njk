@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<meta charset="UTF-8" name="viewport" content="width=device-width">
+  	<style type="text/css">
+	html {
+		background: #060606;
+	}
+	body {
+		font-family: Arial, Helvetica, sans-serif;
+		max-width: 700px;
+		margin: 0 auto;
+	}
+	a {color: #333;}
+	button {
+		font-family: Arial, Helvetica, sans-serif;
+		 border: none;
+		 position: relative;
+		 font-size: 30px;
+		 position: relative;
+	}
+   blockquote {
+     position: relative;
+   }
+   blockquote p {
+     font-size: 50px;
+     color: white;
+     font-style: italic;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   blockquote::before {
+    font-size: 150px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: -15px;
+    color: black;
+    left: -80px;
+   }
+   h1 {
+     color: white;
+     font-weight: lighter;
+     font-size: 40px;
+   }
+   p {
+     color: #666;
+     font-size: 16px;
+   }
+   .more {
+     text-align: center;
+   }
+  </style>
+	<title>America Votes '24</title>
+	<body>
+	  <h1>After in depth consultation with analysts, pundits, politicians, staffers, and the American public, here are our predictions for the coming 2024 election</h1> 
+	  <br>
+	  <h1>Key Result:</h1>
+		<blockquote><p id="stuffhere"></p></blockquote>
+		<p class="more"><button>Click here for more insights!</button></p>
+		<script>
+		(function(){
+	
+		var first = ['The Democrats', 'The Republicians', 'The President', 'The Vice President', 'Congress', 'The Senate', 'Liberals', 'Conservatives', 'All elected officials', 'Some presidential candidates', 'Southern candidates', 'West coast candidates', 'East coast candidates'];
+		var second = ['will struggle with', 'will succeed with', 'will win with', 'may lose with', 'will win without', 'can lose without', 'will be scandalized by', 'will find suprise support from', 'will be disappointed by', 'may find massive support from', 'will face resistance on the topic of', 'may get some reassurance on the topic of'];
+		var third = ['the American public', 'political insiders', "the battle for America's soul", 'the White House', 'the Supreme Court', 'voters', 'the International community', 'the Left', 'the Right', 'corporate interests', 'California', 'Ohio', 'the older generation', 'the younger generation', 'health care', 'national security', 'the Heartland'];
+	
+		async function randomSelection(o){ 
+			var s = Math.floor(Math.random() * o.length)
+			return o[s];
+		}
+	
+		async function buildPrediction(){
+			var start = await randomSelection(first);
+			var middle = await randomSelection(second);
+			var last = await randomSelection(third)
+			var out = start + ' ' + middle + ' ' + last + '.';
+			document.querySelector('#stuffhere').innerHTML = out;
+		}
+	
+		document.querySelector('button').addEventListener('click', buildPrediction);
+		buildPrediction();
+	
+		})();
+		</script>
+	</body>
+</html>
