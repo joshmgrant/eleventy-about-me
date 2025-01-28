@@ -1,6 +1,8 @@
 # About Me
 
-I'm Josh Grant, and this is my site. I'm interested in a few different things. In technology, I'm mostly interested in software development, in particular software quality and software test automation. I like mathematics, art, theoretical biology and Python. 
+I'm Josh Grant, and this is my site. I'm interested in a few different things.
+
+In technology, I'm mostly interested in software development, in particular software quality and software test automation. I like mathematics, art, theoretical biology and Python. 
 
 ## Select Projects
 
